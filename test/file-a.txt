@@ -1,0 +1,5 @@
+"variablea":"variablea1",
+"variableb":"variableb",
+"variablec":"variablec",
+"variablek":"variablekc"
+

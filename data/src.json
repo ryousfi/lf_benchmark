@@ -1,0 +1,12 @@
+{
+  "kxj.home.screen.accounts.widget.error.description": "The accounts cannot be displayed at the moment.",
+  "kxj.home.screen.accounts.widget.title": "Accounts",
+  "kxj.home.screen.activate.push.notifications.interactive.tour.description": "Stay on top of your finances - anytime and anywhere.",
+  "kxj.home.screen.activate.push.notifications.interactive.tour.title": "Activate push notifications",
+  "kxj.home.screen.bring.a.friend": "Hi! Are you already familiar with UBS's offering for SMEs? These practical products and services have made our daily business significantly easier. For example, you can easily open a business account online and benefit from favorable conditions. Find out more here: https://www.ubs.com/ch/en/corporates/key4/banking-package.html",
+  "kxj.home.screen.bring.friend.accept.and.continue": "That's OK",
+  "kxj.home.screen.bring.friend.information.sharing.data.disclaimer": "You're about to share information outside of the Mobile Banking App. This means that your banking relationship with UBS might be disclosed to third parties abroad (e.g., app providers).",
+  "kxj.home.screen.bring.friend.information.sharing.data.title": "Just to let you know",
+  "kxj.home.screen.callmeback.addnumber.phone.number": "Phone number",
+  "kxj.home.screen.callmeback.addphonenumber.info": "Start with country prefix (e.g., +41)"
+}
