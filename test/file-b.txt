@@ -1,4 +1,0 @@
-"variablea":"variablea2",
-"variableb":"variableb",
-"variablec":"variablec",
-"variablek":"variablekc"
